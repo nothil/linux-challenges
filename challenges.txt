@@ -1,0 +1,90 @@
+         challenge 1
+         
+         
+  1 ls command its presents the contants of a 
+    working directory.
+  2 pwd this will remind me which directory i
+    am currently working on.          
+  3 mkdir workspace  create a folder 
+    cd workspace command allows me to enter
+    inside workspace/ cd is used to change 
+    directories.
+  4 touch README.md command is use to create
+    a file.
+    
+    
+            challenge 2
+   
+    touch exercise.md 
+    mv exercise.md /tmp this command line 
+    will move exercise.md file to /tmp root
+    
+    rm /tmp/exercise.md this command is the
+    absolute path/full path of where this
+    file is located 
+    
+    
+               challenge 3
+               
+  1  touch umuzi.md recruits.md cohort.md
+     creat 3 empty files 
+  2  echo " contents " >> filename.md allows 
+     to add text on the files. to each file
+  3  cat recruits.md umuzi.md cohort.md >
+     summary.md
+     this command line will combine all the
+     contents of the files in one new file
+     name summary.  
+     
+     
+          
+          challenge 4 
+  
+  1  locate umuzi
+  
+  2  locate umuzi >> search_result.md
+  
+  
+            
+            challenge 5 
+  
+            
+  1  mkdir documents
+     touch pad.md 
+  
+      
+  2  cd ..
+     mkdir work create an empty folder
+     
+  3  cp pad.md pad_copy.md
+  
+  4  locate updatedb
+ 
+  5  cd ..
+  
+  6  locate "*.md"
+  
+  
+       
+       
+             
+           challenge 6 
+             
+   1 lacate "*.pdf"
+    
+   2 locate "*.pdf" >> workspace/pop.txt
+   
+   3 cat workspace/pop.txt  
+   
+   
+   
+         challenge 7 
+  
+  
+  1   nano my_bio.md
+  2   ctrl o my_bio.md
+  3   mkdir my_files  
+      mv  my_bio.md my_files             
+                      
+    
+                
